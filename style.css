@@ -1,0 +1,67 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    min-height: 1500px;
+    margin: 0px
+}
+header{
+    background-color: blueviolet;
+    text-align: center;
+    position: 
+}
+header h1{
+    display: inline-block;
+    text-align: center ;
+    
+
+
+}
+
+header img{
+    position: absolute;
+    top:0;
+    right: 0;
+    
+}
+
+nav{
+    display: inline-block;
+    width: 500px;
+    background-color: aquamarine;
+}
+ nav h2{
+
+    display: inline-block
+ }
+ nav h2 a{
+    text-decoration: none;
+ }
+ footer{
+    background-color: brown;
+    position: fixed;
+    bottom: 0;
+
+
+ }
+ main{
+
+ }
+ main section h2{
+    display: inline-block;
+    background-color: lightgrey;
+ }
+ #heading{}
+
+ /* mobile responsive */
+
+ @media screen and (max-width:390px){
+    header{
+        background-color: blanchedalmond;
+
+    }
+    
+ main section{
+    display: block;
+    width: 100%
+ }
