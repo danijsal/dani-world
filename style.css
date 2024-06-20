@@ -1,76 +1,7 @@
- /*quotes*/
-p1{font-family: "La Belle Aurore", cursive;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 75px;
-   margin: 50 px
-  
-
+h3{
+    color:mediumturquoise;
 }
 
-p3{color:rgb(31, 15, 3);
-    font-family: "Macondo Swash Caps", cursive;
-    font-weight: 350px;
-    font-style: normal;
-    font-size: 75px;
-    margin: 50px
+.blue-section{
     
-
-};
-  
-/*books*/
-.book1{color:black;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 100px
-
 }
-#book2
-{color: black;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 50px
-}
-
-
-/* borders, emphasis*/
-#type1 {
-    color: rgb(48, 77, 48);
-    font-size: 100px;
-    font-family: "Poppins", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-  margin: 50px;
-  padding: 25px;
-  border: 5px dotted black;
-  }
-  #type2 {
-    color: rgb(48, 77, 48);
-    font-size: 100px;
-    font-family: "Poppins", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-  margin: 50px;
-  padding: 25px;
-  border: 5px dashed black;
-  }
-  #type3 {
-    color: rgb(48, 77, 48);
-    font-size: 100px;
-    font-family: "Poppins", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-  margin: 50px;
-  padding: 25px;
-  border: 5px dashed black;
-  }
-  #type4 {
-    color: rgb(83, 18, 18)
-    font-size: 100px;
-    font-family: "Poppins", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-  margin: 50px;
-  padding: 25px;
-  border: 5px groove black;
-  }
-
-    
